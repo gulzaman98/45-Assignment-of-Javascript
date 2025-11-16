@@ -27,3 +27,5 @@ console.log(5 + 3)
 
 8 . Greetings: Start with the array you used in Exercise , but instead of just printing each person’s name, print a message to them. The text of each message should be the same,
 but each message should be personalized with the person’s name.
+
+9 . Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
